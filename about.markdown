@@ -10,4 +10,4 @@ Nous les avons améliorés en ajoutant des matériaux plus solide qu'avant.
 
 Nos attaches sont disponibles en métal, en plastique, en papier et en bois.
 
-Si vous souhaitez faire un partenariat avec nous, veuillez considérer remplir ce formulaire: <a href="https://tiny.cc/acheterattachef">Partenaires Commerciaux Attache F</a>
+Si vous souhaitez faire un partenariat avec nous, veuillez considérer remplir ce formulaire: <a href="https://tiny.cc/acheterattachef" target="_blank">Partenaires Commerciaux Attache F</a>
