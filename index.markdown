@@ -35,4 +35,4 @@ Ce n'est pas tout le monde qui veut gaspiller son argent!
 
 Le prix d'une attache F est de 9,99$ et elles sont disponibles a Walmart et Home Depot!
 
-<a href="https://tiny.cc/acheterattachef">Acheter l'attache F dès maintenant</a>
+<a href="https://tiny.cc/acheterattachef" target="_blank">Acheter l'attache F dès maintenant</a>
