@@ -17,7 +17,7 @@ Voici certaines choses que vous pouvez construire avec les attaches:
 - Une balancoire
 - Un stand pour altere
 
-De plus, vous pouvez convertire une attache en plusieurs autres structures très utiles comme des contrevents!
+De plus, vous pouvez convertir une attache en plusieurs autres structures très utiles comme des contrevents!
 
 Il faut juste fixer l'attache F version 90 degrés dans le coté d'une structure a forme rectangulaire!
 
