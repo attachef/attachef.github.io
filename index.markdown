@@ -10,14 +10,20 @@ Je vous présente les attaches F, c'est léger, solide, innovatif, sécuritaire 
 
 Les attaches F sont des attaches qui distribuent un poids aux 2 êxtrémités de l'attache, ce qui la rend plus solide.
 
+<img src="https://i.gyazo.com/a1338615675fe9c41bbdee22575e6456.png">
+
 Nous avons des milliers de clients satisfaits dans le monde entier!
 
 Voici certaines choses que vous pouvez construire avec les attaches:
 - Un Abri pour auto
 - Une balancoire
-- Un stand pour altere
+- Un stand pour haltere
+- Un hamac
+- Et plein d'autres choses
 
-De plus, vous pouvez convertir une attache en plusieurs autres structures très utiles comme des contrevents!
+<img src="https://i.gyazo.com/70c0a6196ee86972dedf9ad49ab04e9a.png">
+
+De plus, vous pouvez convertire une attache en plusieurs autres structures très utiles comme des contrevents!
 
 Il faut juste fixer l'attache F version 90 degrés dans le coté d'une structure a forme rectangulaire!
 
